@@ -17,6 +17,6 @@ object printlines extends App {
       println(padding + line.length + " | " + line)
     }
   } else
-    Console.err.println("Pleaseenterfilename")
+    Console.err.println("Please enter filename")
 
 }
